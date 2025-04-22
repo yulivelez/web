@@ -1,0 +1,188 @@
+
+*{margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;}
+#contenedor{width:1500px;
+    height:2000px;
+    background-color: rgb(209, 73, 141);
+margin: 0 auto;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blueviolet;
+    padding: 10px 20px;
+}
+.logo img{
+height: 70px;
+padding: 0 0 0 50px;
+}
+ #p1{
+  font-size: 25px;
+ }
+#menu nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+}
+
+#menu nav ul li a{ 
+    text-decoration: none;
+    margin-right: 40px;
+    color: white;
+    padding: 20px; 
+    font-size: 25px;
+}
+
+#menu nav ul li a:hover{
+ color :rgb(221, 162, 230);
+  border-radius: 4px;   
+}
+#carrucel{
+    width: 1500px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+#huella{background-color: rgb(255, 165, 41);
+    width: 1500px;
+    height: 110px;
+    margin: 0 auto;
+    padding: 8px;
+    text-align: center;
+    }
+
+    #noticia{width:1500px;
+        height:550px;
+        background-color:rgb(249, 181, 84) ;
+    margin: 0 auto;}
+    
+        #columna1{width: 400px;
+            height:450px;
+        
+            float: left;
+            margin: 50px 25px 0 125px;
+          }
+    
+        #columna2{width: 400px;
+            height:450px;
+            float: left; 
+             margin: 50px 25px 0 0;
+           
+         
+          }
+            #columna3{width: 400px;
+            height:450px;
+          
+            float: left;
+            margin: 50px 25px 0 0;
+         }
+         .titulos{
+            text-align: center;
+         }
+         .parrafos{
+            text-justify: auto;
+            font-size: 20px;
+         }
+         .banner12{
+         font-size: 50px;
+         }
+        #letrabanner{
+            font-size: 30px;
+        }
+        .ver{
+            font-size: 25px;
+            color: blueviolet;
+        }
+        .ver2{
+            color: aliceblue;
+            font-size: 25px;
+        }
+
+        #nservicios{
+            background-color:  blueviolet;
+            width: 1500px;
+            height: 365px;
+            padding: 40px
+            30px 0 50px;
+           }
+         
+
+           #imagenlogo{
+            width: 482px;
+            height: 271px;
+        margin:  20px 0 0 100px;
+    
+     
+           }
+           #caja1{
+            width: 800px;
+            height: 271px;
+        float: right;
+           }
+    
+
+          .p2{
+            font-size: 25px;
+            color: aliceblue;
+          }
+          h3{
+            color: aliceblue;
+          }
+        
+          #nservicioslog{
+            background-color: rgb(251, 170, 56);
+            width: 1500px;
+            height: 300px;
+            padding: 30px 40px 0 50px;
+           }
+       
+           #caja2{
+            width: 1000px;
+            height: 271px;
+        float: right;
+        padding: 60px 0 0 0;
+     
+           }
+           #imagen{
+            width: 482px;
+            height: 271px;
+        margin:  0 40px 0 150px;
+     
+           }
+          .p3{
+            font-size: 25px;
+            color: rgb(13, 13, 14);
+          }
+          h3{
+            color: aliceblue;
+          }
+          
+          #footer{width:1500px;
+            padding: 0 0 0 300px;
+            height:280px;
+            background-color: blueviolet;
+            clear: both;
+            text-align: center;}
+        
+        #logob{width: 400px;
+            height:150px;
+            float: left;
+            margin: 60px 25px 0 0;
+          }
+        
+        #contacto{width: 400px;
+            height:150px;
+            float: left; 
+             margin: 40px 20px 0 0;
+          }
+          .h2l{
+            color: aliceblue;
+            font-size: 20px;
+          }
+        .h21{
+            color: aliceblue;
+        }

@@ -1,0 +1,151 @@
+*{margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;}
+     
+    #contenedor{width:1500px;
+      height:2000px;
+      background-color:  rgb(251, 170, 56);
+  margin: 0 auto;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+    .navbar{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: blueviolet;
+      padding: 10px 20px;
+  }
+  .logo img{
+  height: 70px;
+  padding: 0 0 0 50px;
+  }
+  
+  #menu nav ul{
+      list-style-type: none;
+      display: flex;
+      justify-content: right;
+  }
+  
+  #menu nav ul li a{ 
+      text-decoration: none;
+      margin-right: 40px;
+      color: white;
+      padding: 20px; 
+      font-size: 25px;
+  }
+  
+  #menu nav ul li a:hover{
+   color :rgb(221, 162, 230);
+    border-radius: 4px;   
+  }
+#nservicios{
+    background-color: rgb(251, 170, 56);
+    width: 1480px;
+    height: 450px;
+    padding: 30px 0 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   }
+   #imagenlogo{
+    width: 482px;
+    height: 271px;
+margin:0 100px 0 100px;
+
+   }
+   #caja1{
+    width: 600px;
+    height: 271px;
+float: left;
+padding: 0 0 100px 280px;
+text-align: left;
+
+   }
+
+  #nservicioslog{
+    background-color: blueviolet;
+    width: 1470px;
+    height: 360px;
+    padding: 40px
+    30px 0 0;
+   }
+
+   #imagen{
+    width: 482px;
+    height: 271px;
+margin:  40px 0 100px 100px;
+
+
+   }
+   #caja2{
+    width: 600px;
+    height: 271px;
+float: right;
+padding: 10px;
+margin:  30px 250px 0 10px;
+font-size: 25px;
+   }
+ 
+  h3{
+    color: rgb(10, 10, 10);
+    font-size: 25px;
+  }
+
+  #h3e{
+    color: rgb(246, 246, 250);
+  }
+   #banner{width:1500px;
+    height:503px;
+    background-color: hsl(0, 68%, 73%);}
+    .p4{
+        font-size: 45px;
+        color: rgb(14, 14, 14);
+        padding: 50px;
+   text-align: center;
+      }
+      .p8{
+        font-size: 25px;
+        color: black;
+      }
+      .p9{
+        font-size: 25px;
+color: aliceblue;
+      }
+      .ver4{
+        color: rgb(104, 11, 141);
+        font-size: 50px;
+     text-align: center;
+     display: block;
+     margin: 
+     0 auto;
+     padding: 20px;
+    }
+        
+    #footer{width:1200px;
+        padding: 0 0 0 300px;
+        height:280px;
+        background-color: blueviolet;
+        clear: both;
+        text-align: center;}
+    
+    #logob{width: 400px;
+        height:150px;
+        float: left;
+        margin: 60px 25px 0 0;
+      }
+    
+    #contacto{width: 400px;
+        height:150px;
+        float: left; 
+         margin: 40px 20px 0 0;
+      }
+      .h2l{
+        color: aliceblue;
+        font-size: 20px;
+      }
+    .h21{
+        color: aliceblue;
+    }
+    
+    

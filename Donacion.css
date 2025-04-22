@@ -1,0 +1,161 @@
+*{margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;}
+     
+    #contenedor{width:1500px;
+      height:1900px;
+      background-color  :rgb(253, 204, 204);
+  margin: 0 auto;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+    .navbar{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: blueviolet;
+      padding: 10px 20px;
+  }
+  .logo img{
+  height: 70px;
+  padding: 0 0 0 50px;
+  }
+  
+  #menu nav ul{
+      list-style-type: none;
+      display: flex;
+      justify-content: right;
+  }
+  
+  #menu nav ul li a{ 
+      text-decoration: none;
+      margin-right: 40px;
+      color: white;
+      padding: 20px; 
+      font-size: 25px;
+  }
+  
+  #menu nav ul li a:hover{
+   color :rgb(221, 162, 230);
+    border-radius: 4px;   
+  }
+  #banner{width:1500px;
+    height:650px;
+    background-color: hsl(0, 68%, 73%);}
+    #testimonio{
+        background-color:rgb(253, 204, 204);
+        width: 1500px;
+        height: 120px;
+        text-align: center;
+padding: 30px 0 0 0;
+    }
+    #dona{
+        text-align: center;
+        font-size: 60px;
+    }
+    #donar{
+        background-color: rgb(252, 185, 185);
+        text-align: left;
+        padding: 30px;
+
+
+    }
+    #donar2{width: 900px;
+        height: 200px;
+      
+        text-align: left;
+        padding: 30px;
+        font-size: 30px;
+        padding: 100px;
+    }
+    .dona{
+        text-align: left;
+        padding: 40px 60px;
+        width: 100px;
+        height: 90px;
+
+    }
+
+    #donar3{
+        background-color:rgb(248, 191, 191);
+        text-align: left;
+        padding: 30px;
+        width: 400px;
+    }
+    
+
+
+    #toby{
+        background-color: blueviolet;
+        width: 1400px;
+        height: 210px;
+        margin: 0 auto;
+        display: flex;
+       
+    }
+    #tobise{
+        background-color: rgb(253, 204, 204);
+        width: 1500px;
+        height: 270px;
+        padding-top: 50px;
+   
+    }
+    #imagentoby{
+        background-color :rgb(253, 204, 204);
+        width: 500px;
+        height: 230px;
+
+    }
+    #textotoby{
+        background-color:rgb(253, 204, 204);
+        width: 1500px;
+        height: 230px;
+        display: flex;
+      float: left;
+    }
+    .pt{
+        font-size: 32px;
+        text-align: center;
+        padding: 30px;
+    }
+    .h1e{
+        padding: 40px;
+        font-size: 40px;
+    }
+    #donar7{
+        font-size: 40px;
+        text-align: center;
+        padding: 30px;
+    }
+    #donar8{
+      width: 1500px;
+      height: 100px;
+
+    }
+    #footer{width:1200px;
+        padding: 0 0 0 300px;
+        height:280px;
+        background-color:   blueviolet;
+        clear: both;
+        text-align: center;}
+    
+    #logob{width: 400px;
+        height:150px;
+        float: left;
+        margin: 60px 25px 0 0;
+      }
+    
+    #contacto{width: 400px;
+        height:150px;
+        float: left; 
+         margin: 40px 20px 0 0;
+      }
+      .h2l{
+        color: aliceblue;
+        font-size: 20px;
+      }
+    .h21{
+        color: aliceblue;
+    }
+    
+    

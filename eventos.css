@@ -1,0 +1,129 @@
+*{margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;}
+
+
+#contenedor{width:1500px;
+    height:1065px;
+    background-color:  rgb(251, 170, 56);
+margin: 0 auto;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+  .navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blueviolet;
+    padding: 10px 20px;
+}
+.logo img{
+height: 70px;
+padding: 0 0 0 50px;
+}
+
+#menu nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+}
+
+#menu nav ul li a{ 
+    text-decoration: none;
+    margin-right: 40px;
+    color: white;
+    padding: 20px; 
+    font-size: 25px;
+}
+
+#menu nav ul li a:hover{
+ color :rgb(221, 162, 230);
+  border-radius: 4px;   
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+  }
+
+  h1 {
+    margin-top: 40px;
+    font-size: 70px;
+    color: #333;
+  }
+#unete{
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+  .container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: 40px auto;
+    max-width: 1200px;
+    padding: 0 20px;
+  }
+
+  .card {
+    background-color: white;
+    width: 280px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+
+  .card:hover {
+    transform: scale(1.03);
+  }
+
+  .card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+  }
+
+  .card h3 {
+    margin: 15px 0 5px;
+    font-size: 1.2em;
+    color: #222;
+  }
+
+  .card p {
+    font-size: 0.9em;
+    color: #555;
+    padding: 0 15px 15px;
+  }
+
+
+
+  #footer{width:1200px;
+    padding: 0 0 0 300px;
+    height:280px;
+    background-color:   blueviolet;
+    clear: both;
+    text-align: center;}
+
+#logob{width: 400px;
+    height:150px;
+    float: left;
+    margin: 60px 25px 0 0;
+  }
+
+#contacto{width: 400px;
+    height:150px;
+    float: left; 
+     margin: 40px 20px 0 0;
+  }
+  .h2l{
+    color: aliceblue;
+    font-size: 20px;
+  }
+.h21{
+    color: aliceblue;
+}
+
+
